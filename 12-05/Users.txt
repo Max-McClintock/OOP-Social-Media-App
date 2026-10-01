@@ -1,0 +1,7 @@
+3355,frank,stein,02/03/44,1,1,false,14/05/2026 15:17:56,00/05/26,4,
+4242,betty,boop,08/03/77,b@b.com,bye,false,13/05/2026 20:45:01,09/05/26,0,
+4944,jenny,wot,20/05/99,j@wot.com,what,false,09/05/26,05/03/26,0,
+1007,james,bond,07/06/02,j@bond.com,spy,false,09/05/26,04/05/26,0,
+8888,Ted,Bear,12/10/01,t@b.com,pass,false,03/04/26,07/05/26,0,
+8491,Max,McClintock,25/10/2005,mmc@gmail.com,12345,false,14/05/2026 14:56:46,a,0,
+2045,Damian,McClintock,23/02/1965,dmc@gmail.com,12345,null,14/05/2026 16:39:06,a,1,
